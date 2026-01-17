@@ -3134,6 +3134,7 @@ dependencies = [
  "anyhow",
  "async-trait",
  "chrono",
+ "dotenvy",
  "futures-lite 2.6.1",
  "lapin",
  "reqwest",
